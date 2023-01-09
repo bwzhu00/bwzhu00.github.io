@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in IoT Engineering in Central South University, 2018 - 2022
+* Master of Computer Science in Jekyll, GitHub University, 2022 - 2024 (Expected)
 
 Work experience
 ======
