@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &bwzhu0717
 facebook:
-  username               :
+  username               : &bwzhu0717
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
