@@ -19,8 +19,8 @@ Education
 
 Recent News
 ------
-**Jan 9, 2023**		First day of 2023 Spring semest in NCSU.
+**Jan 9, 2023** - First day of 2023 Spring semest in NCSU.
 
-**Aug 22, 2022**	 	International Student Orientation in NCSU.
+**Aug 22, 2022** - International Student Orientation in NCSU.
 
-**Jun 17, 2022**		I graduated from CSU in Changsha, China.
+**Jun 17, 2022** - I graduated from CSU in Changsha, China.
