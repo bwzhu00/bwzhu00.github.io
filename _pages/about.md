@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master of Computer Sciecne student NC State University. I obtained my bachelor's degree from Central South University in June, 2022. Although I don't have much research experience yet, I'm working hard to prepare for my academic path.
+I am currently a Master of Computer Sciecne student in [NC State University](https://www.csc.ncsu.edu/). I obtained my bachelor's degree from [Central South University](https://cse.csu.edu.cn/) in June, 2022. Although I don't have much research experience yet, I'm working hard to prepare for my academic path.
+
+**Research Interest:** IoT, Machine Learning
 
 Education
 ------
@@ -17,8 +19,8 @@ Education
 
 Recent News
 ------
-**Jan 9, 2023**	First day of 2023 Spring semest in NCSU.
+**Jan 9, 2023**		First day of 2023 Spring semest in NCSU.
 
-**Aug 22, 2022**	 International Student Orientation in NCSU.
+**Aug 22, 2022**	 	International Student Orientation in NCSU.
 
-**Jun 17, 2022**	I graduated from Central South University in Changsha, China.
+**Jun 17, 2022**		I graduated from CSU in Changsha, China.
