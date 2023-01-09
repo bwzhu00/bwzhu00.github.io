@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% %}
-{% endfor %}
-
 ## Papers
 
 ### 2021
