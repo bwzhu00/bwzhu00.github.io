@@ -84,25 +84,25 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Raleigh, NC, USA"
-  employer         :
+  employer         : "North Carolina State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JpIXNewAAAAJ&hl=en"
   email            : "bzhu6@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://www.bwzhu.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "bwzhu0717"
   foursquare       :
-  github           : "https://github.com/bwzhu00"
+  github           : "bwzhu00"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zettonpiggy"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bwzhu/"
   orcid            : "https://orcid.org/0000-0003-0036-777X"
   pinterest        :
   soundcloud       :
