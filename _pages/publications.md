@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-;{% for post in site.publications reversed %}
- ; {% include archive-single.html %}
-;{% endfor %}
+{% for post in site.publications reversed %}
+  {% %}
+{% endfor %}
 
 ## Papers
 
-#### 2021
+### 2021
 
 **Application of Transfer Learning in Medical and Health Field**
 
@@ -25,7 +25,7 @@ author_profile: true
 
 *China Computer and Communication* [[PDF](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=XXDL202122004&uniplatform=OVERSEA&v=7O4b8B96KkzRgvQQpZTWHRns3OGjr6HQsk46YgvO93vZlaa8OptYSOemRjIr8K_A)]
 
-
+&nbsp;
 
 **Application of "Internet +" in Health Management for the Elderly**
 
