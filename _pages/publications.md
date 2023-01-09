@@ -15,13 +15,13 @@ author_profile: true
 
 ### 2021
 
-#### **Application of Transfer Learning in Medical and Health Field**
+### **Application of Transfer Learning in Medical and Health Field**
 
 **<u>Bowen Zhu</u>**, Lian Li, and Jianwei Yao
 
 *China Computer and Communication* [[PDF](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=XXDL202122004&uniplatform=OVERSEA&v=7O4b8B96KkzRgvQQpZTWHRns3OGjr6HQsk46YgvO93vZlaa8OptYSOemRjIr8K_A)]
 
-#### **Application of "Internet +" in Health Management for the Elderly**
+### **Application of "Internet +" in Health Management for the Elderly**
 
 **Bowen Zhu**, and Lian Li
 
