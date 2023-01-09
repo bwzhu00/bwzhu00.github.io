@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JpIXNewAAAAJ&hl=en"
-  email            :
+  email            : "bzhu6@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "bwzhu0717"
   vine             :
   weibo            :
   xing             :
