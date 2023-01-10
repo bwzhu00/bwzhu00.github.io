@@ -14,8 +14,12 @@ I am currently a Master of Computer Sciecne student in [NC State University](htt
 
 Education
 ------
-- Master of Computer Science, North Carolina State University, 2022 - 2024.
-- B.Eng. in Internet of Things Engineering, Central South University, 2018 - 2022.
+- **M.S. in Computer Science, 2024. (expected)**
+  - North Carolina State University, Raleigh, USA
+
+- **B.Eng. in Internet of Things Engineering, 2022.**
+  - Central South University, Changsha, China
+
 
 Recent News
 ------
