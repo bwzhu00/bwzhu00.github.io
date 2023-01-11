@@ -14,17 +14,20 @@ I am currently a Master of Computer Sciecne student in [NC State University](htt
 
 Education
 ------
-- **M.S. in Computer Science, 2024. (expected)**
+- **M.S. in Computer Science, 2024 (expected)**
   - North Carolina State University, Raleigh, USA
 
-- **B.Eng. in Internet of Things Engineering, 2022.**
+- **B.Eng. in Internet of Things Engineering, 2022**
   - Central South University, Changsha, China
 
 
 Recent News
 ------
-**Jan 9, 2023** - First day of 2023 Spring semest in NCSU.
+**Jan 9, 2023** - First day of 2023 Spring semester in NCSU.
 
 **Aug 22, 2022** - International Student Orientation in NCSU.
 
-**Jun 17, 2022** - I graduated from CSU in Changsha, China.
+**Aug 8, 2022** - I arrived in Raleigh from China.
+
+**Jun 19, 2022** - I graduated from CSU.
+
