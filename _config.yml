@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bowen Zhu"
+  name             : "Bowen Zhu (朱博文)"
   avatar           : "profile.png"
-  bio              : "Master Student @North Carolina State University"
+  bio              : "Master Student @ North Carolina State University"
   location         : "Raleigh, NC, USA"
-  employer         : "North Carolina State University"
+  employer         : # "North Carolina State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JpIXNewAAAAJ&hl=en"
   email            : "bzhu6@ncsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://www.bwzhu.com"
+  uri              : # "http://www.bwzhu.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bwzhu"
-  orcid            : "https://orcid.org/0000-0003-0036-777X"
+  orcid            : # "https://orcid.org/0000-0003-0036-777X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
