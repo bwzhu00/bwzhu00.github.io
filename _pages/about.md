@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
-
+<br><br>
 I am currently a Master of Computer Science student at [NC State University](https://www.csc.ncsu.edu/) (NCSU) since fall 2022. 
 Before that, I obtained my bachelor's degree in IoT Engineering from [Central South University](https://csu.edu.cn/) (CSU) in June 2022. 
 During the last year of my undergraduate study, I was advised by Prof. [Shenghui Liao](https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm) for my graduation project and thesis.
