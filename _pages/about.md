@@ -8,26 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master of Computer Sciecne student in [NC State University](https://www.csc.ncsu.edu/). I obtained my bachelor's degree from [Central South University](https://cse.csu.edu.cn/) in June, 2022. Although I don't have much research experience yet, I'm working hard to prepare for my academic path.
+I am currently a Master of Computer Science student at [NC State University](https://www.csc.ncsu.edu/) (NCSU) since fall 2022. 
+Before that, I obtained my bachelor's degree in IoT Engineering from [Central South University](https://csu.edu.cn/) (CSU) in June 2022. 
+During the last year of my undergraduate study, I was advised by [Prof. Shenghui Liao](https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm) for my graduation project and thesis.
+I also worked as a research assistant in the lab of Prof. Xiyao Liu for half a year since September 2020.
 
-**Research Interest:** IoT, Machine Learning
+While I haven't acquire substantial competitive research experience yet, I'm working hard to prepare for my academic path. 
+My personal research interest include the fields of the Internet of Things (IoT), Machine Learning, as well as their applications in healthcare and other real-world scenarios.
 
 Education
 ------
-- **M.S. in Computer Science, 2024 (expected)**
-  - North Carolina State University, Raleigh, USA
+- **Master of Computer Science, 2022 - 2024**
+    - North Carolina State University, Raleigh, USA
 
-- **B.Eng. in Internet of Things Engineering, 2022**
-  - Central South University, Changsha, China
-
-
+- **B.Eng. in Internet of Things Engineering, 2018 - 2022**
+    - Central South University, Changsha, China
+  
+<!--
 Recent News
 ------
 **Jan 9, 2023** - First day of 2023 Spring semester in NCSU.
-
+\
 **Aug 22, 2022** - International Student Orientation in NCSU.
-
+\
 **Aug 8, 2022** - I arrived in Raleigh from China.
-
+\
 **Jun 19, 2022** - I graduated from CSU.
-
+-->
