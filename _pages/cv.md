@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="../CV_BowenZhu.pdf" width="100%" height="50vh">
+<iframe src="../CV_BowenZhu.pdf" width="100%" height="100%">
     <p>Your browser does not support the PDF viewer. Please <a href="https://github.com/bwzhu00/bwzhu00.github.io/blob/8785f1f58f9c8d6f671e8dc674a14bb594af74e4/CV_BowenZhu.pdf">click here</a> to download the PDF.</p>
 </iframe>
 
