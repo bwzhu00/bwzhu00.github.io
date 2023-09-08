@@ -119,7 +119,8 @@
 
   $social:
   (facebook, $facebook-color),
-  (twitter, $twitter-color),
+  //(twitter, $twitter-color),
+  (twitter, $twitter-x-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
 
