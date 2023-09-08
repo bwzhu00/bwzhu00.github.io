@@ -9,7 +9,7 @@ redirect_from:
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
 <br>
-I am currently a Master of Computer Science student at [NC State University](https://www.csc.ncsu.edu/) (NCSU) since fall 2022. 
+I am currently a Master of Computer Science student at [North Carolina State University](https://www.ncsu.edu/) (NCSU) since fall 2022. 
 Before that, I obtained my bachelor's degree in IoT Engineering from [Central South University](https://csu.edu.cn/) (CSU) in June 2022. 
 During the last year of my undergraduate study, I was advised by Prof. [Shenghui Liao](https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm) for my graduation project and thesis.
 I also worked as a research assistant in the lab of Prof. [Xiyao Liu](https://faculty.csu.edu.cn/liuxiyao/en/index/40230/list/index.htm) for half a year since September 2020.
@@ -20,10 +20,10 @@ My personal research interest include the fields of the Internet of Things (IoT)
 Education
 ------
 - **Master of Computer Science, 2022 - 2024**
-    - North Carolina State University, Raleigh, USA
+    - North Carolina State University, Raleigh NC, USA
 
 - **B.Eng. in Internet of Things Engineering, 2018 - 2022**
-    - Central South University, Changsha, China
+    - Central South University, Changsha Hunan, China
 
 <br>
 <br>
