@@ -32,6 +32,7 @@ Education
 *This site is currently under development. Please check back soon for updates.*
 
 <hr>
+
 <!--
 Recent News
 ------

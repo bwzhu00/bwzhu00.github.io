@@ -8,3 +8,10 @@ redirect_from:
   - /project
 ---
 
+<br>
+<br>
+<hr>
+
+*This site is currently under development. Please check back soon for updates.*
+
+<hr>

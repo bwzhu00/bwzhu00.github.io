@@ -15,9 +15,13 @@ PDF version of my CV can be downloaded <a href="../files/CV_BowenZhu.pdf" target
     <p>Your browser does not support the PDF viewer. Please <a href="../files/CV_BowenZhu.pdf">click here</a> to download the PDF.</p>
 </iframe>
 
+<br>
+<br>
+<hr>
 
+*This site is currently under development. Please check back soon for updates.*
 
-
+<hr>
 
 
 <!--
