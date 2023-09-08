@@ -86,9 +86,9 @@ author:
   location         : "Raleigh, NC, USA"
   employer         : # "North Carolina State University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JpIXNewAAAAJ&hl=en"
+  googlescholar    : "JpIXNewAAAAJ"
   email            : "bzhu6@ncsu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "Bowen-Zhu-15"
   uri              : # "http://www.bwzhu.com"
   bitbucket        :
   codepen          :
@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        : # "zettonpiggy"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bwzhu"
-  orcid            : # "https://orcid.org/0000-0003-0036-777X"
+  orcid            : # "0000-0003-0036-777X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "bwzhu0717"
   vine             :
-  weibo            : "u/3172776194"
+  weibo            : "3172776194"
   xing             :
   youtube          : # "UC9P0CwWdEMf5Zv_YigwB2xA"
   wikipedia        :
