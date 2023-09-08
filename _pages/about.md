@@ -24,7 +24,14 @@ Education
 
 - **B.Eng. in Internet of Things Engineering, 2018 - 2022**
     - Central South University, Changsha, China
-  
+
+<br>
+<br>
+<hr>
+
+*This site is currently under development. Please check back soon for updates.*
+
+<hr>
 <!--
 Recent News
 ------
