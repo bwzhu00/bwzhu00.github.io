@@ -9,7 +9,7 @@ redirect_from:
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
 <br>
-I am currently a Master of Computer Science student at [North Carolina State University](https://www.ncsu.edu/) (NCSU) since fall 2022. 
+I have been studying Computer Science at [North Carolina State University](https://www.ncsu.edu/) (NCSU) since fall 2022. 
 Before that, I obtained my bachelor's degree in IoT Engineering from [Central South University](https://csu.edu.cn/) (CSU) in June 2022. 
 During the last year of my undergraduate study, I was advised by Prof. [Shenghui Liao](https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm) for my graduation project and thesis.
 I also worked as a research assistant in the lab of Prof. [Xiyao Liu](https://faculty.csu.edu.cn/liuxiyao/en/index/40230/list/index.htm) for half a year since September 2020.
