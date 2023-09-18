@@ -32,7 +32,7 @@ redirect_from:
 *Digital Technology & Application*, vol. 39, no. 6, 2021, pp. 77-80.
 
 
-## Conference Papers
+[//]: # (## Conference Papers)
 
 
 <br>
