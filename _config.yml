@@ -58,13 +58,13 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "bwzhu00"
+  username               : &twitter "bwzhu00"
 facebook:
-  username               : "bwzhu00"
+  username               : &facebook "bwzhu00"
   app_id                 :
   publisher              :
 github:
-  username               : "bwzhu00"
+  username               : &github "bwzhu00"
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
