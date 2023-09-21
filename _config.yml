@@ -14,7 +14,7 @@ description              : &description "Master of Computer Science Student"
 url                      : "https://bwzhu00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bwzhu00/bwzhu00.github.io"
-last_updated_site        : 2023-09-20
+last_updated_site        : 2023-09-21
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,7 +60,7 @@ yandex_site_verification :
 twitter:
   username               :  &twitter #"bwzhu00"
 facebook:
-  username               : # "bwzhu00"
+  username               : "bwzhu00"
   app_id                 :
   publisher              :
 #github:
