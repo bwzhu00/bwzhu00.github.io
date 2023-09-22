@@ -10,10 +10,13 @@ redirect_from:
 
 
 
+
 <br>
 <br>
 <hr>
 
-*This site is currently under development. Please check back soon for updates.*
+*This site is currently under development.
+<br>Not all content is available yet, but updates are on the way!
+<br >Please check back soon.*
 
 <hr>

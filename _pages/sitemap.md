@@ -35,3 +35,16 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
+
+
+
+<br>
+<br>
+<hr>
+
+*This site is currently under development.
+<br>Not all content is available yet, but updates are on the way!
+<br >Please check back soon.*
+
+<hr>
