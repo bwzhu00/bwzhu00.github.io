@@ -155,6 +155,8 @@ exclude:
   - "_posts/2012-08-14-blog-post-1.md"
   - "_portfolio/portfolio-1.md"
   - "_teaching/2014-spring-teaching-1.md"
+  - "markdown_generator/readme.md"
+  - "_pages/teaching.html"
 keep_files:
   - .git
   - .svn
