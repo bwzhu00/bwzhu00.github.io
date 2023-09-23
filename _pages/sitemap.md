@@ -23,7 +23,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 -->
 {% for filename in site.data.page_order %}
-  {% assign fullpath = "_pages/" | append: filename %}
+  {% assign fullpath = "{{ base_path }}/_pages/" | append: filename %}
   {% assign page = site.pages | where: "path", fullpath | first %}
   {% include archive-single.html %}
 {% endfor %}
