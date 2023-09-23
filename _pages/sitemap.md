@@ -15,19 +15,18 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <hr>
 <h2>Pages</h2>
-<!--
+<!-- 
 {% for post in site.pages %}
   {% if post.sitemap %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 -->
-
 {% for filename in site.data.page_order %}
-  {% assign page = site.pages | where: "path", filename | first %}
+  {% assign fullpath = "_pages/" | append: filename %}
+  {% assign page = site.pages | where: "path", fullpath | first %}
   {% include archive-single.html %}
 {% endfor %}
-
 
 <br><br>
 <hr>
