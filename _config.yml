@@ -157,7 +157,6 @@ exclude:
   - "_teaching/2014-spring-teaching-1.md"
   - "markdown_generator/readme.md"
   - "_pages/teaching.html"
-  -
 keep_files:
   - .git
   - .svn
