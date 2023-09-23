@@ -23,10 +23,16 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 -->
 {% for filename in site.data.page_order %}
-  {% assign fullpath = "{{ base_path }}/_pages/" | append: filename %}
+  {% assign fullpath = "_pages/" | append: filename %}
+  {{ fullpath }} <!-- 输出路径检查是否正确 -->
   {% assign page = site.pages | where: "path", fullpath | first %}
-  {% include archive-single.html %}
+  {% if page %}
+    {% include archive-single.html %}
+  {% else %}
+    <p>Page not found for {{ fullpath }}</p>
+  {% endif %}
 {% endfor %}
+
 
 <br><br>
 <hr>
