@@ -14,9 +14,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Papers
-
-### 2021
 -->
 
 ## Journal Papers
