@@ -11,10 +11,10 @@ title                    : "Bowen Zhu"
 title_separator          : "-"
 name                     : &name "Bowen Zhu"
 description              : &description "Master of Computer Science Student"
-url                      : "https://bwzhu00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.bwzhu.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bwzhu00/bwzhu00.github.io"
-last_updated_site        : 2023-09-23
+last_updated_site        : 2023-09-22
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
