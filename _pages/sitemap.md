@@ -28,8 +28,8 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
+<br>
 
-<br><br>
 <hr>
 <h2>Posts</h2>
 <!--
