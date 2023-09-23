@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+sitemap: true
 redirect_from:
   - /projects
   - /project
