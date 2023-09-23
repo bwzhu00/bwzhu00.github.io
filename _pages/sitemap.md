@@ -13,7 +13,7 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an <a href="{{ base_path }}/sitemap.xml" target="_blank">XML version</a> available for digesting as well.
 
-
+<hr>
 <h2>Pages</h2>
 {% for post in site.pages %}
   {% if post.sitemap %}
@@ -21,9 +21,7 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endif %}
 {% endfor %}
 
-<br>
-<br>
-
+<hr>
 <h2>Posts</h2>
 <!--
 {% for post in site.posts %}
