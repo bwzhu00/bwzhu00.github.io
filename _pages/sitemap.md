@@ -9,7 +9,10 @@ author_profile: true
 
 [//]: # ({% assign base_path = 'http://www.bwzhu.com' %})
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+[//]: # (A list of all the posts and pages found on the site. For you robots out there is an [XML version]&#40;{{ base_path }}/sitemap.xml&#41; available for digesting as well.)
+
+A list of all the posts and pages found on the site. For you robots out there is an <a href="{{ base_path }}/sitemap.xml" target="_blank">XML version</a> available for digesting as well.
+
 
 <h2>Pages</h2>
 {% for post in site.pages %}
