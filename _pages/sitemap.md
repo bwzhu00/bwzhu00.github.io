@@ -5,9 +5,9 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-[//]: # ({% include base_path %})
+{% include base_path %}
 
-{% assign base_path = 'http://www.bwzhu.com' %}
+[//]: # ({% assign base_path = 'http://www.bwzhu.com' %})
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
