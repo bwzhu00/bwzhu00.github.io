@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version of my CV can be downloaded <a href="../files/CV_BowenZhu.pdf" target="_blank">here</a>.
+PDF version of my CV can be downloaded <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" target="_blank">here</a>.
 
-<iframe src="../files/CV_BowenZhu.pdf" width="100%" style="height:75vh;">
-    <p>Your browser does not support the PDF viewer. Please <a href="../files/CV_BowenZhu.pdf">click here</a> to download the PDF.</p>
+<iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" width="100%" style="height:75vh;">
+    <p>Your browser does not support the PDF viewer. Please <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing">click here</a> to download the PDF.</p>
 </iframe>
 
 <br>
