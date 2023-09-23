@@ -21,10 +21,16 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endif %}
 {% endfor %}
 
+<br>
+<br>
+
 <h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+
+[//]: # ({% for post in site.posts %})
+
+[//]: # (  {% include archive-single.html %})
+
+[//]: # ({% endfor %})
 
 {% capture written_label %}'None'{% endcapture %}
 
