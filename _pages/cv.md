@@ -13,7 +13,7 @@ redirect_from:
 PDF version of my CV can be downloaded <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" target="_blank">here</a>.
 
 
-<iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/preview" style="width: 100%; height:100%;" allow="autoplay">
+<iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/preview" style="width: 100%; height:200vh;" allow="autoplay">
     <p>Your browser does not support the PDF viewer. Please <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" target="_blank">click here</a> to download the PDF.</p>
 </iframe>
 
