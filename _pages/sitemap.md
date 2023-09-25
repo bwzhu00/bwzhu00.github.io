@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-[//]: # ({% assign base_path = 'http://www.bwzhu.com' %})
 
 [//]: # (A list of all the posts and pages found on the site. For you robots out there is an [XML version]&#40;{{ base_path }}/sitemap.xml&#41; available for digesting as well.)
 

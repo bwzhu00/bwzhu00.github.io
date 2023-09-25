@@ -11,7 +11,7 @@ title                    : "Bowen Zhu"
 title_separator          : "-"
 name                     : &name "Bowen Zhu"
 description              : &description "Master of Computer Science Student"
-url                      : "http://www.bwzhu.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https//www.bwzhu.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bwzhu00/bwzhu00.github.io"
 last_updated_site        : 2023-09-25
@@ -92,7 +92,7 @@ author:
   googlescholar    : "3yGsK5UAAAAJ"
   email            : "bzhu6@ncsu.edu"
   researchgate     : # "Bowen-Zhu-15"
-  uri              : # "http://www.bwzhu.com"
+  uri              : # "https://www.bwzhu.com"
   bitbucket        :
   codepen          :
   dribbble         :
