@@ -12,12 +12,13 @@ redirect_from:
 
 PDF version of my CV can be downloaded <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" target="_blank">here</a>.
 
-<!--
+
 <iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/preview" width="100%" style="height:75vh;" allow="autoplay">
     <p>Your browser does not support the PDF viewer. Please <a href="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/view?usp=sharing" target="_blank">click here</a> to download the PDF.</p>
 </iframe>
--->
-<iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+<!-- <iframe src="https://drive.google.com/file/d/1jzgj3fTRM6fvDSxzeHDf28ZEcpF73P8B/preview" width="640" height="480" allow="autoplay"></iframe> -->
 
 
 <br>
