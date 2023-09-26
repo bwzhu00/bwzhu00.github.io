@@ -10,10 +10,10 @@ redirect_from:
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
 <br>
-I have been studying Computer Science at <a href="https://www.ncsu.edu" target="_blank">North Carolina State University</a> (NCSU) since fall 2022. 
-Before that, I obtained my bachelor's degree in IoT Engineering from <a href="https://www.csu.edu.cn/" target="_blank">Central South University</a> (CSU) in June 2022. 
-During the last year of my undergraduate study, I was advised by Prof. <a href="https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm" target="_blank">Shenghui Liao</a> for my graduation project and thesis.
-I also worked as a research assistant in the lab of Prof. <a href="https://faculty.csu.edu.cn/liuxiyao/en/index/40230/list/index.htm" target="_blank">Xiyao Liu</a> for half a year since September 2020.
+I have been studying Computer Science at <a href="https://www.ncsu.edu" target="_blank" style="text-decoration: none;">North Carolina State University</a> (NCSU) since fall 2022. 
+Before that, I obtained my bachelor's degree in IoT Engineering from <a href="https://www.csu.edu.cn/" target="_blank" style="text-decoration: none;">Central South University</a> (CSU) in June 2022. 
+During the last year of my undergraduate study, I was advised by Prof. <a href="https://faculty.csu.edu.cn/liaoshenghui/en/index/6801/list/index.htm" target="_blank" style="text-decoration: none;">Shenghui Liao</a> for my graduation project and thesis.
+I also worked as a research assistant in the lab of Prof. <a href="https://faculty.csu.edu.cn/liuxiyao/en/index/40230/list/index.htm" target="_blank" style="text-decoration: none;">Xiyao Liu</a> for half a year since September 2020.
 
 While I haven't acquire substantial competitive research experience yet, I'm working hard to prepare for my academic path. 
 My personal research interest include the fields of the Internet of Things (IoT), Machine Learning, as well as their applications in healthcare and other real-world scenarios.
