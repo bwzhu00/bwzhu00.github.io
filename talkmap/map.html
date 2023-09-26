@@ -34,11 +34,34 @@
 			// 	attribution: 'Tiles &copy; AMap &mdash; Map data &copy; AutoNavi'
 			// }),
 
-			<!-- Tianditu -->
-			var key = "3a9c2fcd75a2aed15f82bd907a67cc79"
-			var tiles = L.tileLayer('https://t0.tianditu.gov.cn/eva_c/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=eva&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&tk=' + key, {
-				maxZoom: 18,
-				attribution: 'Tiles &copy; Tianditu &copy' // 或者其他你想加的版权信息
+			// <!-- Tianditu -->
+			// var key = "3a9c2fcd75a2aed15f82bd907a67cc79"
+			// var tiles = L.tileLayer('https://t0.tianditu.gov.cn/eva_c/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=eva&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&tk=' + key, {
+			// 	maxZoom: 18,
+			// 	attribution: 'Tiles &copy; Tianditu &copy' // 或者其他你想加的版权信息
+			// });
+
+			<!-- Baidu Map -->
+			var ak = "49GEpUFGt2CkTaatLS2t9ubYhvNnQPad"
+			// 定义百度地图的参考椭球，分辨率，原点，范围
+			var baiduCrs = new L.Proj.CRS('EPSG:3857', '+proj=merc +a=6378206 +b=6356802.624 +lat_ts=0.0 +lon_0=0.0 +x_0=0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs', {
+				resolutions: function() {
+					var level = 19
+					var res = [];
+					res[0] = Math.pow(2, 18);
+					for (var i = 1; i < level; i++) {
+						res[i] = Math.pow(2, (18 - i))
+					}
+					return res;
+				}(),
+				origin: [0, 0],
+				bounds: L.bounds([20037508.342789244, 0], [0, 20037508.342789244])
+			});
+			// 加载百度瓦片代码，tms=true，表明y轴向上
+			var tiles = L.tileLayer('http://online{s}.map.bdimg.com/onlinelabel/?qt=tile&x={x}&y={y}&z={z}&styles=pl&scaler=1&p=1', {
+				subdomains: ak,
+				tms: true,
+				attribution: 'Map data &copy; <a href="https://map.baidu.com/">Baidu Map</a>'
 			});
 
 			latlng = L.latLng(30, 10);
