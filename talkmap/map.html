@@ -65,7 +65,7 @@
 			});
 
 			latlng = L.latLng(30, 10);
-    		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
+    		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles], crs: baiduCrs});
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
     			maxClusterRadius: 80
