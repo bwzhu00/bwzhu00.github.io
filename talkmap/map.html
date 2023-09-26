@@ -20,16 +20,27 @@
     	<div id="map"></div>
     	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
     	<script type="text/javascript">
-    		// var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+
+			<!-- Esri -->
+			// var tiles = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
             //   maxZoom: 18,
             //   attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
             //         }),
-			var randomServer = Math.floor(Math.random() * 4) + 1; // Randomly select one of the 4 available servers
-			var tiles = L.tileLayer('https://wprd0' + randomServer + '.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=en&size=1&scl=2&style=7', {
+
+			<!-- AMap (Gaode) -->
+			// var randomServer = Math.floor(Math.random() * 4) + 1; // Randomly select one of the 4 available servers
+			// var tiles = L.tileLayer('https://wprd0' + randomServer + '.is.autonavi.com/appmaptile?x={x}&y={y}&z={z}&lang=en&size=1&scl=2&style=7', {
+			// 	maxZoom: 18,
+			// 	attribution: 'Tiles &copy; AMap &mdash; Map data &copy; AutoNavi'
+			// }),
+
+			<!-- Tencent Map -->
+			var tiles = L.tileLayer('http://rt0.map.gtimg.com/realtimerender?z={z}&x={x}&y={-y}&type=vector&style=0', {
 				maxZoom: 18,
-				attribution: 'Tiles &copy; AMap &mdash; Map data &copy; AutoNavi'
+				attribution: 'Tiles &copy; Tencent Map &mdash; Map data &copy; AutoNavi'
 			}),
-					latlng = L.latLng(30, 10);
+
+			latlng = L.latLng(30, 10);
     		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
