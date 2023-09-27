@@ -29,3 +29,6 @@ I warmly invite you to navigate through the website, explore the content in dept
 A heartfelt acknowledgment to [Stuart Geiger](https://github.com/staeiou) for the creation of the AcademicPages template. The design and structure have been instrumental in presenting my academic profile effectively.
 
 For individuals looking to establish a similar academic presence online, I highly recommend checking out the [official AcademicPages documentation](https://academicpages.github.io/).
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
