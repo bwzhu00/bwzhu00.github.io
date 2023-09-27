@@ -31,7 +31,7 @@
 <!--      {% else %}-->
 <!--        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>-->
 <!--      {% endif %}-->
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" class="noUnderline">{{ title }}</a>
       {% if post.link %}
         <a href="{{ post.link }}" target="_blank" rel="link"><i class="fa fa-link" aria-hidden="true" title="External Link"></i><span class="sr-only">External Link</span></a>
       {% endif %}
