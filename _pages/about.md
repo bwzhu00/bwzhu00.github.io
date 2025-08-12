@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
-<br>
 
 I am currently working as a FinTech Engineer in the Department of Technology and Product Management at <a href="https://www.abchina.com.cn/cn/default.htm" target="_blank" class="noUnderline">Agricultural Bank of China</a> (ABC) - Shanghai Branch.
 <br>
