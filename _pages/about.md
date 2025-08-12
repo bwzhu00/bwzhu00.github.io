@@ -11,7 +11,6 @@ redirect_from:
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
 
 I am currently working as a FinTech Engineer in the Department of Technology and Product Management at <a href="https://www.abchina.com.cn/cn/default.htm" target="_blank" class="noUnderline">Agricultural Bank of China</a> (ABC) - Shanghai Branch.
-<br>
 
 I obtained my Master's Degree in Computer Science at <a href="https://www.ncsu.edu" target="_blank" class="noUnderline">North Carolina State University</a> (NCSU) in May, 2024. 
 Before that, I obtained my Bachelor's Degree in IoT Engineering from <a href="https://www.csu.edu.cn/" target="_blank" class="noUnderline">Central South University</a> (CSU) in June, 2022. 
@@ -25,10 +24,7 @@ Career
 ------
 - **FinTech Engineer, 2025 - Now**
     - Agricultural Bank of China - Shanghai Branch, Shanghai, P.R.China
-<!--
-- **Backend Developer Intern, 2021**
-    - Kunshan Briup Software Technology Co., Ltd., Kunshan Jiangsu, P.R.China
--->
+
 
 Education
 ------
