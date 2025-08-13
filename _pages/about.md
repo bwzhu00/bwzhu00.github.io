@@ -9,8 +9,7 @@ redirect_from:
   - /about.html
 ---
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
-
-
+<br>
 I am currently working as a FinTech Engineer in the Department of Technology and Product Management at <a href="https://www.abchina.com.cn/cn/default.htm" target="_blank" class="noUnderline">Agricultural Bank of China</a> (ABC) Shanghai Branch.
 
 I obtained my Master's Degree in Computer Science at <a href="https://www.ncsu.edu" target="_blank" class="noUnderline">North Carolina State University</a> (NCSU) in May, 2024. 
@@ -24,7 +23,7 @@ I'm working hard to prepare for my academic path. My personal research interest 
 Career
 ------
 - **FinTech Engineer, 2025 - Now**
-    - Agricultural Bank of China (Shanghai Branch), Shanghai, P.R.China
+    - Agricultural Bank of China Shanghai Branch, Shanghai, CHINA
 
 
 Education
