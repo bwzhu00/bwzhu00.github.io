@@ -22,7 +22,7 @@ I'm working hard to prepare for my academic path. My personal research interest 
 
 Career
 ------
-- **FinTech Engineer | Shanghai Branch, 2025 - Now**
+- **FinTech Engineer \| Shanghai Branch, 2025 - Now**
     - Agricultural Bank of China Limited, Shanghai, CHINA
 
 
