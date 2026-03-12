@@ -11,7 +11,7 @@ redirect_from:
 <!--
 <font color="red"> I am earnestly exploring opportunities to pursue doctoral studies and would greatly value any guidance or opportunities in this regard. </font>
 <br>
-I am currently working as a FinTech Engineer in the Department of Technology & Product Management at <a href="https://www.abchina.com.cn/cn/default.htm" target="_blank" class="noUnderline">Agricultural Bank of China</a> (ABC) Shanghai Branch.
+I am currently working as a FinTech SDE in the Department of Technology & Product Management at <a href="https://www.abchina.com.cn/cn/default.htm" target="_blank" class="noUnderline">Agricultural Bank of China</a> (ABC) Shanghai Branch.
 -->
 
 I obtained my Master's Degree in Computer Science at <a href="https://www.ncsu.edu" target="_blank" class="noUnderline">North Carolina State University</a> (NCSU) in May, 2024. 
